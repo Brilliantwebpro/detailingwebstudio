@@ -1,0 +1,23 @@
+[
+  {
+    "email": "detailingwebstudio360@gmail.com",
+    "password": "Akin2004@@",
+    "name": "Admin User",
+    "role": "admin",
+    "isActive": true,
+    "_id": "mmjs84ou2k43rnop7eu",
+    "createdAt": "2026-03-09T22:58:07.422Z",
+    "updatedAt": "2026-03-10T13:11:37.273Z",
+    "lastLogin": "2026-03-10T13:11:37.273Z"
+  },
+  {
+    "email": "info@soakedetailing.com",
+    "password": "Akin2004@@",
+    "name": "Admin User",
+    "role": "admin",
+    "isActive": true,
+    "_id": "mmm4rh23zezbeq9yoz",
+    "createdAt": "2026-03-11T14:24:37.659Z",
+    "updatedAt": "2026-03-11T14:24:37.677Z"
+  }
+]
