@@ -55,7 +55,6 @@ export default function ContactPage() {
               <section className="step-panel" data-step-panel>
                 <label htmlFor="phone">Phone</label><input id="phone" name="phone" type="tel" required />
                 <label htmlFor="email">Email</label><input id="email" name="email" type="email" required />
-                <label><input type="checkbox" name="schedule_call" value="yes" /> Send me a scheduling link after submission</label>
                 <div className="cta-row"><button className="btn btn-secondary" type="button" data-prev>Back</button><button className="btn btn-primary" type="submit">Submit Request</button></div>
               </section>
 
